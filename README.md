@@ -1,4 +1,4 @@
-# Color MIBNETV2
+# cctv-car-color-classifier
 
 Train a `MobileNetV2` classifier to predict **car color from CCTV images** using PyTorch and NVIDIA GPU acceleration.
 
